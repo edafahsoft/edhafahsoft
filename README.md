@@ -1,53 +1,28 @@
 <p align="center">
-
-  <!-- HOME Button with background -->
   <a href="https://github.com/ishahneilkhan">
-    <button style="background-color: green; color: white; border: none; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      HOME
-    </button>
-  </a>
+    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
 
-  <!-- Transparent Buttons -->
+    
   <a href="https://github.com/ishahneilkhan/about">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      ABOUT
-    </button>
-  </a>
+    <img src="https://img.shields.io/badge/About-white?style=for-the-badge&logo=about-dot-me&logoColor=white&labelColor=white&color=white" />
 
   <a href="https://github.com/ishahneilkhan/Contact">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      CONTACT
-    </button>
-  </a>
+    <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=white&color=white" />
 
   <a href="https://github.com/ishahneilkhan?tab=projects">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      PROJECTS
-    </button>
-  </a>
+    <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=github&logoColor=white&rounded=true" />
 
-  <a href="https://github.com/ishahneilkhan/Assignments">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      ASSIGNMENTS
-    </button>
-  </a>
+ <a href="https://github.com/ishahneilkhan/Assignments">
+    <img src="https://img.shields.io/badge/Assignments-white?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=white&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/blogs">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      BLOGS
-    </button>
-  </a>
+<a href="https://github.com/ishahneilkhan/blogs">
+    <img src="https://img.shields.io/badge/Blogs-white?style=for-the-badge&logo=ghost&logoColor=white&labelColor=white&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/Gallery">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      GALLERY
-    </button>
-  </a>
+<a href="https://github.com/ishahneilkhan/Gallery">
+    <img src="https://img.shields.io/badge/Gallery-white?style=for-the-badge&logo=googlephotos&logoColor=white&labelColor=white&color=white" />
 
-  <a href="https://github.com/ishahneilkhan/Download/tree/main">
-    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
-      DOWNLOAD
-    </button>
+<a href="https://github.com/ishahneilkhan/Download/tree/main">
+    <img src="https://img.shields.io/badge/Download-white?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=white&color=white" />
   </a>
-
 </p>
+
