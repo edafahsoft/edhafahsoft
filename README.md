@@ -1,17 +1,51 @@
-<div style="text-align: left;">
-  <a href="#"><button style="background-color: green; color: white; border: none; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">HOME</button></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Navbar</title>
+  <style>
+    body {
+      background-color: #121212;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
 
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">ABOUT</button></a>
+    .navbar {
+      display: flex;
+      background-color: #1e1e1e;
+      padding: 12px 20px;
+      justify-content: center;
+    }
 
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">CONTACT</button></a>
+    .navbar a {
+      color: #ccc;
+      text-decoration: none;
+      padding: 10px 15px;
+      border-radius: 4px;
+      transition: 0.3s;
+      margin: 0 5px;
+      font-weight: 500;
+    }
 
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">PROJECTS</button></a>
+    .navbar a:hover,
+    .navbar a.active {
+      color: white;
+      background-color: #007aff;
+    }
+  </style>
+</head>
+<body>
 
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">ASSIGNMENTS</button></a>
+  <div class="navbar">
+    <a href="#" class="active">Home</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+    <a href="#">Assignment</a>
+    <a href="#">Blog</a>
+    <a href="#">Gallery</a>
+    <a href="#">Download</a>
+    <a href="#">Project</a>
+  </div>
 
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">BLOGS</button></a>
-
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">GALLERY</button></a>
-
-  <a href="#"><button style="background-color: transparent; color: white; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; text-transform: uppercase; font-weight: bold; cursor: pointer;">DOWNLOAD</button></a>
-</div>
+</body>
+</html>
