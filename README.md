@@ -35,7 +35,7 @@ I love building things that solve real-world problems and express ideas through 
 
 Feel free to reach out:
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: shahneilkhan@email.com  
 - 💬 WhatsApp: +8801XXXXXXXXX  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 - 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
